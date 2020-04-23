@@ -8,11 +8,11 @@ My personal opinionated point of view.
 >
 > B: I am unsure. The bridge looks very old.
 >
-> A: (fells fear): If we go over it and it ... collapses?
+> A (fells fear): If we go over it and it ... collapses?
 >
 > B: Then it might be wise to not go over it, and instead we dance over it.
 >
-> A: (relieved, happy): Great idea! If our heart is filled with joy we feel much lighter and then the bridge holds us. Good idea!
+> A (relieved, happy): Great idea! If our heart is filled with joy we feel much lighter and then the bridge holds us. Good idea!
 >
 > B: ???
 
