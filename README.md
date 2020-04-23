@@ -1,6 +1,6 @@
 # Scrum: My point of view
 
-My personal opinionated point of view.
+My personal opinionated point of view about [Scrum](https://en.wikipedia.org/wiki/Scrum).
 
 # Story points
 
