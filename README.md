@@ -35,7 +35,7 @@ Scrum is free. We all love each other. No money is involved?
 
 If I search for "scrum guide" I get this result:
 
-![google search for "scrum guide"](scrum-guide--google-search.png)
+![google search for "scrum guide"](scrum-guide--google-search2.png)
 
 There is an advertisment.
 
