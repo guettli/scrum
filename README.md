@@ -29,4 +29,7 @@ Now you could argue, I should find a magic function which maps from Story Points
 But maybe these fancy units have benefits. For examplel the "Jeff Bezos' 2 Pizza Rule". Why no use a boring range like "5 to 7 people"? Don't ask me. Somehow "2 Pizza Rule" is way better than a boring numbers. Maybe it is the same for "story points vs hours". Maybe selling ideas more important than having great ideas.
 
 
+# Scrum is free - no money involved?
+
+
 
