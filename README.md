@@ -31,5 +31,13 @@ But maybe these fancy units have benefits. For examplel the "Jeff Bezos' 2 Pizza
 
 # Scrum is free - no money involved?
 
+Scrum is free. We all love each other. No money is involved?
 
+If I search for "scrum guide" I get this result:
+
+![google search for "scrum guide"](scrum-guide--google-search.png)
+
+There is an advertisment.
+
+This means scrum.org is paying google money to get to the top of this page.
 
