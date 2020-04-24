@@ -41,3 +41,7 @@ There is an advertisment.
 
 This means scrum.org is paying google money to get to the top of this page.
 
+So you should be aware of the fact that there is some marketing campaign behind scrum.
+
+There are people who earn more money if more people use scrum.
+
