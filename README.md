@@ -45,3 +45,4 @@ So you should be aware of the fact that there is some marketing campaign behind 
 
 There are people who earn more money if more people use scrum.
 
+Maybe Scrum is more successful than Kanban in the last years (see [Google Trend "Scrum Kanban"](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01mwhw,%2Fm%2F0ck_p8)) because Scrum has a better marketing campaign?
