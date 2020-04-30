@@ -2,6 +2,8 @@
 
 My personal opinionated point of view about [Scrum](https://en.wikipedia.org/wiki/Scrum).
 
+Don't get me wrong: I like Scrum. Here are some things where I think different.
+
 # Story points
 
 > A: Will the old bridge hold us when we go over it?
@@ -35,6 +37,8 @@ The Scrum Guide does not define "Sprint Goal", only the term [Sprint](https://ww
 But "Sprint Goal" gets used several times.
 
 Of course it depends. Maybe you have well defined Sprint Goals. But in my experience only 5% of Sprints have one well defined goal. This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring. 
+
+Example: We start a new sprint and have capacity for 40 Story Points. We fill the sprint backlog with 15 issues. Now have a look at these 15 issues. Many of them are not related to another. They are issues. Some small, some big. There is no useful common denominator. Why create a Sprint Goal?
 
 I think it makes sense to have 2 week sprints. But I don't need to give them a fancy name.
 
