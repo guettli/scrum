@@ -40,6 +40,10 @@ I think it makes sense to have 2 week sprints. But I don't need to give them a f
 
 Just like version numbers like 20.04 make much more sense to me than [Focal Fossa (Ubuntu's fancy name for the current release)](https://releases.ubuntu.com/20.04/). I prefer the dry number which contains a date.
 
+If course there are goals which have names. But they are created by the product team and they usualy have long term plans.
+
+Since the scrum team exists to do what the product team wants, it does not make sense that the scrum team invents a written "Sprint Goal" for each sprint. Quarterly goals by the product teams are enough.
+
 # Scrum is free - no money involved?
 
 Scrum is free. We all love each other. No money is involved?
