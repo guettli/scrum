@@ -20,6 +20,8 @@ Don't get me wrong: I like Scrum. Here are some things where I think different.
 
 Most developers work 8 hours per day. But since some Scrum Gurus said you should use Story Points, most teams do it.
 
+Please pay attention to the previous sentence. I wrote "Scrum Gurus", not "Scrum Guide". The official Scrum Guide only talks about "estimates".
+
 Yes, I have read this [Jeff Sutherland "Story Points: Why are they better than hours?"](https://www.scruminc.com/story-points-why-are-they-better-than/).
 
 I like challenges: As a developer, if I have a task which is estimated at 4 hours, this gives me a challenge: Solve it in three hours!
