@@ -48,6 +48,21 @@ If course there are goals which have names. But they are created by the product 
 
 Since the scrum team exists to do what the product team wants, it does not make sense that the scrum team invents a written "Sprint Goal" for each sprint. Quarterly goals by the product teams are enough.
 
+# A sprint is a less than short-term
+
+Maybe I am blind, but up to now I could not find information in the scrum guide about the long term planning.
+
+Working in two week sprints is fine.
+
+Nevertheless you need a bit more.
+
+You should be aware of this.
+
+For me, short-term means 3..6 months, mid-term means 6..12 months, long-term means 12.. months.
+
+If you look at Scrum this way, a Sprint is less than "short-term".
+
+
 # Scrum is free - no money involved?
 
 Scrum is free. We all love each other. No money is involved?
