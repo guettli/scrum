@@ -38,7 +38,7 @@ Of course it depends. Maybe you have well defined Sprint Goals. But in my experi
 
 I think it makes sense to have 2 week sprints. But I don't need to give them a fancy name.
 
-Just like version numbers like 20.04 make much more sense to me than [Focal Fossa (Ubuntu's fancy name for the current release)](https://releases.ubuntu.com/20.04/). I prefer the dry number which contains a date.
+Just like version numbers like 20.04 make much more sense to me than [Focal Fossa (Ubuntu's fancy name for the current release)](https://releases.ubuntu.com/20.04/). I prefer the dry number which contains a date. In this case "April 2020".
 
 If course there are goals which have names. But they are created by the product team and they usualy have long term plans.
 
