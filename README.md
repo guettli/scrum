@@ -24,10 +24,21 @@ I like challenges: As a developer, if I have a task which is estimated at 4 hour
 
 If I have a task that is measured in story points, then I don't have this personal challenge.
 
-Now you could argue, I should find a magic function which maps from Story Points to hours. Then I have the same challenge. But wait: Why should I do this dancing forward and dancing backward again? 
+Now you could argue, I should find a magic function which maps from Story Points to hours. Then I have the same challenge. But wait: Why should I do this dancing forward and dancing backward? 
 
-But maybe these fancy units have benefits. For examplel the "Jeff Bezos' 2 Pizza Rule". Why no use a boring range like "5 to 7 people"? Don't ask me. Somehow "2 Pizza Rule" is way better than a boring numbers. Maybe it is the same for "story points vs hours". Maybe selling ideas more important than having great ideas.
+But maybe these fancy units have benefits. For examplel the "Jeff Bezos' 2 Pizza Rule". Why no use a boring range like "5 to 7 people"? Don't ask me. Somehow "2 Pizza Rule" is way better than a boring numbers. Maybe it is the same for "story points vs hours". Maybe selling ideas is more important than having great ideas.
 
+# "Sprint Goal" vs "constant flow"
+
+The Scrum Guide does not define "Sprint Goal", only the term [Sprint](https://www.scrumguides.org/scrum-guide.html#events-sprint).
+
+But "Sprint Goal" gets used several times.
+
+Of course it depends. Maybe you have well defined Sprint Goals. But in my experience only 5% of Sprints have one well defined goal. This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring. 
+
+I think it makes sense to have 2 week sprints. But I don't need to give them a fancy name.
+
+Just like version numbers like 20.04 make much more sense to me than [Focal Fossa (Ubuntu's fancy name for the current release)](https://releases.ubuntu.com/20.04/). I prefer the dry number which contains a date.
 
 # Scrum is free - no money involved?
 
