@@ -64,6 +64,15 @@ For me, short-term means 3..6 months, mid-term means 6..12 months, long-term mea
 
 If you look at Scrum this way, a Sprint is less than "short-term".
 
+# Velocity
+
+The Scrum Guide does not use the term "Velocity". But this glossary does contain it: [Glossary of scrum.org](https://www.scrum.org/Resources/Scrum-Glossary)
+
+There are rumours that the velocity should get better and better and better until the scrum team flies with the speed of light (joking)
+
+If the leaders want the velocity to increase, they will get what they want. The puzzle is easy to solve. Developers will just need to use higher estimates. Higher estimates, higher velocity.
+
+I don't think that you can measure velocity. Evey development task is different. If leaders want high velocity, then developers won't do very important tasks like cleaning up code, writing tests, try new tools, ....
 
 # Scrum is free - no money involved?
 
