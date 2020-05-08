@@ -91,3 +91,17 @@ So you should be aware of the fact that there is some marketing campaign behind 
 There are people who earn more money if more people use scrum.
 
 Maybe Scrum is more successful than Kanban in the last years (see [Google Trend "Scrum Kanban"](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01mwhw,%2Fm%2F0ck_p8)) because Scrum has a better marketing campaign?
+
+# The term "Sprint".
+
+I like long-distance running. A half marathon (21km) are a great distance. Depending on the mood and entuisiasm this means one and a half or two hours of constant workout. I like it.
+
+I am not a sprinter. I am too slow on short distances.
+
+And now back to software development with Scrum: The interesting things won't get solved in one sprint.
+
+I am not happy with the term "Sprint", but up to now I found no better alternative. Do you have one?
+
+
+
+
