@@ -76,6 +76,17 @@ I don't think that you can measure velocity. Every development task is different
 
 If leaders want high and increasing velocity, then developers won't do very important tasks like cleaning up code, writing tests, trying new tools, etc. If leaders want it like this, they will get it. Finally some developers will get borded and look for a different company to work for.
 
+# Review/Demo
+
+I prefer the term "Demo", since "Review" could mean "Pull-Request Review", too.
+
+Here are three ways how to present the increment to the stakeholders.
+
+* Best: A fluent live demo. The new features get presented in a testing system and there are not hiccups.
+* Good: A fluent presentation of screenshots. The screenshots show the state before the change and after the change.
+* Bad: A live demo with a lot of hiccups
+
+Since it is waste of time to make things perfect ([Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)) I prefer the second solution: A fluent presentation of before/after screenshots.
 
 
 # Scrum is free - no money involved?
