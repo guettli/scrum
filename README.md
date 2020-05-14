@@ -102,6 +102,14 @@ And now back to software development with Scrum: The interesting things won't ge
 
 I am not happy with the term "Sprint", but up to now I found no better alternative. Do you have one?
 
+# Beyond Sprint
 
+I guess the C-level wants more than two week planing. They think in quarters and years.
+
+Scrum only defines the sprint, but no higher level or long term planing.
+
+[Quarterly OKRs](https://en.wikipedia.org/wiki/OKR) can be used for planing beyond two/three week sprints.
+
+That's great. Now you have both: Waterfall/Gantt and Scrum ... oh what fun.
 
 
