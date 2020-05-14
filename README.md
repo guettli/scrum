@@ -72,7 +72,11 @@ There are rumours that the velocity should get better and better and better unti
 
 If the leaders want the velocity to increase, they will get what they want. The puzzle is easy to solve. Developers will just need to use higher estimates. Higher estimates, higher velocity.
 
-I don't think that you can measure velocity. Evey development task is different. If leaders want high velocity, then developers won't do very important tasks like cleaning up code, writing tests, try new tools, ....
+I don't think that you can measure velocity. Every development task is different. 
+
+If leaders want high and increasing velocity, then developers won't do very important tasks like cleaning up code, writing tests, trying new tools, etc. If leaders want it like this, they will get it. Finally some developers will get borded and look for a different company to work for.
+
+
 
 # Scrum is free - no money involved?
 
