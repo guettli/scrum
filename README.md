@@ -88,6 +88,7 @@ Here are three ways how to present the increment to the stakeholders.
 
 Since it is waste of time to make things perfect ([Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)) I prefer the second solution: A fluent presentation of before/after screenshots.
 
+The people who did the changes should present their work. Not the scrum master or product owner.
 
 # Scrum is free - no money involved?
 
