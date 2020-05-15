@@ -32,6 +32,19 @@ Now you could argue, I should find a magic function which maps from Story Points
 
 But maybe these fancy units have benefits. For examplel the "Jeff Bezos' 2 Pizza Rule". Why no use a boring range like "5 to 7 people"? Don't ask me. Somehow "2 Pizza Rule" is way better than a boring numbers. Maybe it is the same for "story points vs hours". Maybe selling ideas is more important than having great ideas.
 
+# Team size
+
+Most Agile and Scrum training courses refer to a 7 +/- 2 rule.
+
+My personal opinion: The team should not have more than 6 members. Ideal size for me is 4.
+
+# Team lifetime
+
+Every 9 to 16 month the scrum team should get dissolved and new teams should get born. 
+
+This reorganization forces every team member to leave the autopilot. This is an interesting
+adventure (although many people don't like changes). It helps avoid the bore-out syndrome.
+
 # "Sprint Goal" vs "constant flow"
 
 The Scrum Guide does not define "Sprint Goal", only the term [Sprint](https://www.scrumguides.org/scrum-guide.html#events-sprint).
