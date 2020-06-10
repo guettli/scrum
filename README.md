@@ -141,4 +141,37 @@ Scrum only defines the sprint, but no higher level or long term planing.
 
 That's great. Now you have both: Waterfall/Gantt and Scrum ... oh what fun.
 
+# Sprint Goals: Would be nice, reality looks different.
+
+It would be nice to have a common sprint goal. Since we are all social beings, it gives us
+a warm feeling inside. I think that is one major feature why a lot of people want to to scrum.
+
+In the past people did hunting and collecting in groups.
+
+Then they got farmers. Still working in groups.
+
+Then came the industrial revolution and one person works on one small puzzle piece. In many
+cases the single person doing his work can't even see the big picture.
+
+Now here is scrum: Let's go hunting again, like we played when we were kids! This feels great....
+
+
+But reality looks different. In the backlog of our team there are more than 300 issues. Daily
+new issues arrive and usualy more issues get added than resolved. Software development
+means to care for several tiny things. There is one big goal: to make the customer happy.
+
+But there is not one sprint goal. At least I have not seen in often. Every developer
+has its own area where he is responsible. And it needs to be that way. The processes behind
+a SaaS creating up to 50k database requests per second are very complex.
+Some people have an overview, but nobody knows all the details.
+
+So if you want to switch to Scrum because you feel like having one common sprint goal which
+every team members works on during the sprint.... It is up to you: Keep on dreaming or stop dreaming.
+
+Maybe a common sprint goal is achievable if you have small sizes. I would say not more than five people.
+But if you have 8 or more people, then it is very likely that everybody works on his own.
+
+But why not? Where is the problem?
+
+If your team solves 30 issues (aka user stories) in one sprint, then it is great. Is there a need to find a common heading for those 30 often unrelated things?
 
