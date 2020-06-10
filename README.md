@@ -47,11 +47,11 @@ adventure (although many people don't like changes). It helps avoid the bore-out
 
 # "Sprint Goal" vs "constant flow"
 
-The Scrum Guide does not define "Sprint Goal", only the term [Sprint](https://www.scrumguides.org/scrum-guide.html#events-sprint).
+The official Scrum Guide does not define "Sprint Goal", only the term [Sprint](https://www.scrumguides.org/scrum-guide.html#events-sprint).
 
 But "Sprint Goal" gets used several times.
 
-Of course it depends. Maybe you have well defined Sprint Goals. But in my experience only 5% of Sprints have one well defined goal. This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring. 
+Of course it depends. Maybe you have well defined Sprint Goals. But in my experience only 5% of Sprints have one well defined goal. This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring and fire-fighting.
 
 Example: We start a new sprint and have capacity for 40 Story Points. We fill the sprint backlog with 15 issues. Now have a look at these 15 issues. Many of them are not related to another. They are issues. Some small, some big. There is no useful common denominator. Why create a Sprint Goal?
 
@@ -140,38 +140,4 @@ Scrum only defines the sprint, but no higher level or long term planing.
 [Quarterly OKRs](https://en.wikipedia.org/wiki/OKR) can be used for planing beyond two/three week sprints.
 
 That's great. Now you have both: Waterfall/Gantt and Scrum ... oh what fun.
-
-# Sprint Goals: Would be nice, reality looks different.
-
-It would be nice to have a common sprint goal. Since we are all social beings, it gives us
-a warm feeling inside. I think that is one major feature why a lot of people want to to scrum.
-
-In the past people did hunting and collecting in groups.
-
-Then they got farmers. Still working in groups.
-
-Then came the industrial revolution and one person works on one small puzzle piece. In many
-cases the single person doing his work can't even see the big picture.
-
-Now here is scrum: Let's go hunting again, like we played when we were kids! This feels great....
-
-
-But reality looks different. In the backlog of our team there are more than 300 issues. Daily
-new issues arrive and usualy more issues get added than resolved. Software development
-means to care for several tiny things. There is one big goal: to make the customer happy.
-
-But there is not one sprint goal. At least I have not seen in often. Every developer
-has its own area where he is responsible. And it needs to be that way. The processes behind
-a SaaS creating up to 50k database requests per second are very complex.
-Some people have an overview, but nobody knows all the details.
-
-So if you want to switch to Scrum because you feel like having one common sprint goal which
-every team members works on during the sprint.... It is up to you: Keep on dreaming or stop dreaming.
-
-Maybe a common sprint goal is achievable if you have small sizes. I would say not more than five people.
-But if you have 8 or more people, then it is very likely that everybody works on his own.
-
-But why not? Where is the problem?
-
-If your team solves 30 issues (aka user stories) in one sprint, then it is great. Is there a need to find a common heading for those 30 often unrelated things?
 
