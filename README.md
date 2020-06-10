@@ -63,6 +63,22 @@ If course there are goals which have names. But they are created by the product 
 
 Since the scrum team exists to do what the product team wants, it does not make sense that the scrum team invents a written "Sprint Goal" for each sprint. Quarterly goals by the product teams are enough.
 
+
+It would be nice to have a common sprint goal. Since we are all social beings, it gives us
+a warm feeling inside. I think that is one major feature why a lot of people want to do scrum.
+
+In the past people did hunting and collecting in groups.
+
+Then they got farmers. Still working in groups.
+
+Then came the industrial revolution and now one person works on one small puzzle piece. In many
+cases the single person doing his work can't even see the big picture.
+
+Now here is scrum: Let's go hunting again, like we played when we were kids! This feels great....
+
+That's why I wrote above text: I want to disillusion you. If you think about starting Scrum, be aware of the fact that
+there won't be a common sprint goal in most cases. 
+
 # A sprint is a less than short-term
 
 Maybe I am blind, but up to now I could not find information in the scrum guide about the long term planning.
