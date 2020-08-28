@@ -137,6 +137,21 @@ There are people who earn more money if more people use scrum.
 
 Maybe Scrum is more successful than Kanban in the last years (see [Google Trend "Scrum Kanban"](https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F01mwhw,%2Fm%2F0ck_p8)) because Scrum has a better marketing campaign?
 
+This gets apparent if you read about the [SEU (Scrum Education Units)](https://www.scrumalliance.org/get-certified/scrum-education-units).
+
+Why are so many people attending the scrum conferences? Because the people want to get Scrum Education Units. Why are there many Scrum Meetups? Because people want to get Scrum Education Units.... 
+
+It is like a [pyramid scheme](https://en.wikipedia.org/wiki/Pyramid_scheme). At the top is the Scrum Alliance which gets money from the [Registered Education Provider ](https://www.scrumalliance.org/get-certified/trainers/become-a-rep). The Registered Education Providers get money by people like you and me.
+
+There are a lot of certications in the scrum/agile context. Like in every pyramid scheme, you can climb the ladder step by step by attending courses.
+
+See: [Scrum Alliance Certs](https://www.scrumalliance.org/get-certified)
+
+Maybe it is better to invest money in certification than to spend money on beer, but I am sceptical. 
+
+
+But a lot of other institutions do it the same way. See [Professional Development Units (PDU)](https://www.pmi.org/certifications/maintain/pdu)
+
 # The term "Sprint".
 
 I like long-distance running. A half marathon (21km) are a great distance. Depending on the mood and entuisiasm this means one and a half or two hours of constant workout. I like it.
