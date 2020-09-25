@@ -141,7 +141,7 @@ This gets apparent if you read about the [SEU (Scrum Education Units)](https://w
 
 Why are so many people attending the scrum conferences? Because the people want to get Scrum Education Units. Why are there many Scrum Meetups? Because people want to get Scrum Education Units.... 
 
-It is like a [pyramid scheme](https://en.wikipedia.org/wiki/Pyramid_scheme). At the top is the Scrum Alliance which gets money from the [Registered Education Provider ](https://www.scrumalliance.org/get-certified/trainers/become-a-rep). The Registered Education Providers get money by people like you and me.
+It is like a [pyramid scheme](https://en.wikipedia.org/wiki/Pyramid_scheme). At the top is the Scrum Alliance which gets money from the [Registered Education Providers](https://www.scrumalliance.org/get-certified/trainers/become-a-rep). The Registered Education Providers get money by people like you and me.
 
 There are a lot of certications in the scrum/agile context. Like in every pyramid scheme, you can climb the ladder step by step by attending courses.
 
