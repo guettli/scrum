@@ -191,4 +191,4 @@ One of several ways to run such a meeting is to use a timeline three levels:
 * Third level: green: Action-items. Who does what during the next days.
 
 
-![post-mortem-timeline](pics/post-mortem.png)
+![post-mortem-timeline](post-mortem.png)
