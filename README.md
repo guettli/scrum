@@ -180,6 +180,20 @@ That's great. Now you have both: Waterfall/Gantt and Scrum ... oh what fun.
 
 * Google Forms. This way the participants don't see what the other participants write. They need to think on their own first. Later you can share your screen and everybody can see the answers of all participants.
 
+# Personal Feedback Retro
+
+After a scrum team worked for several sprints, it is time for a personal feedback retro. I did it like this: I created a empty for every team member. Each board had a heading (the name of the team member) and three columns (keep on doing, stop doing, start doing).
+
+In 15 minutes everybody could add sticky notes to the board of other team members. Before that the moderator (Scrum Master) should remind the people to use a kind and future-focused perspective. The focus should be on "What could be improved?", not "What was done wrong in the past".
+
+After that every team member had time to read the note he received.
+
+One day later we go through the board and everybody has the possiblity to speak about the feedback he received and to ask questions.
+
+This was very fruitfull.
+
+
+
 # Pragmatic Post-Mortem
 
 If there was a bug which caused trouble to users, then it is wise to schedule a post-mortem. This helps to find the root-cause, get a common perspective and it should result in some action points to ensure the same bug does appear again.
@@ -190,5 +204,6 @@ One of several ways to run such a meeting is to use a timeline three levels:
 * Second level, blue: Should: What should have been done
 * Third level: green: Action-items. Who does what during the next days.
 
+It is important that this is not about plaming people. It is about finding ways to improve the processes. The moderator (Scrum Master) should remind the participants if the mood gets non-professional.
 
 ![post-mortem-timeline](post-mortem.png)
