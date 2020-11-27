@@ -1,5 +1,7 @@
 # Scrum: My point of view
 
+I was a Scrum Master for one year (2020). It was fun and I want to share some of my findings.
+
 My personal opinionated point of view about [Scrum](https://en.wikipedia.org/wiki/Scrum).
 
 Don't get me wrong: I like Scrum. Here are some things where I think different.
