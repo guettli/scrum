@@ -180,3 +180,15 @@ That's great. Now you have both: Waterfall/Gantt and Scrum ... oh what fun.
 
 * Google Forms. This way the participants don't see what the other participants write. They need to think on their own first. Later you can share your screen and everybody can see the answers of all participants.
 
+# Pragmatic Post-Mortem
+
+If there was a bug which caused trouble to users, then it is wise to schedule a post-mortem. This helps to find the root-cause, get a common perspective and it should result in some action points to ensure the same bug does appear again.
+
+One of several ways to run such a meeting is to use a timeline three levels:
+
+* First level, yellow: The facts. All participants should agree here
+* Second level, blue: Should: What should have been done
+* Third level: green: Action-items. Who does what during the next days.
+
+
+![post-mortem-timeline](pics/post-mortem.png)
