@@ -209,3 +209,9 @@ One of several ways to run such a meeting is to use a timeline three levels:
 It is important that this is not about plaming people. It is about finding ways to improve the processes. The moderator (Scrum Master) should remind the participants if the mood gets non-professional.
 
 ![post-mortem-timeline](post-mortem.png)
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
+
