@@ -267,7 +267,7 @@ if you like to play the buzzword bingo game:
 * Childish Framework
 * Childish Thinking
 
-Finally it is about one thing: Money. Can we deliver a product which customers will buy?
+Finally it is about one thing: Can we deliver a something which customers will like? How much does it cost us, how much will we receive?
 
 My guideline: Avoid the meta-level, otherwise communicating will likey get childish blublu-blabla. Be precise, implement small solutions today instead of talking about big solutions which are likely to fail.
 
