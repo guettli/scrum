@@ -219,7 +219,7 @@ Let's have some fun. Look at these terms:
 * Agile Transformation
 * Agile Management
 * Agile Journey
-* Agile Chapions
+* Agile Champions
 * Agile Principles
 * Agile Process
 * Agile Mindset
@@ -235,7 +235,7 @@ You do prefer it strategic? OK, here you go:
 * Strategic Transformation
 * Strategic Management
 * Strategic Journey
-* Strategic Chapions
+* Strategic Champions
 * Strategic Principles
 * Strategic Process
 * Strategic Mindset
@@ -256,7 +256,7 @@ if you like to play the buzzword bingo game:
 * Childish Transformation
 * Childish Management
 * Childish Journey
-* Childish Chapions
+* Childish Champions
 * Childish Principles
 * Childish Process
 * Childish Mindset
