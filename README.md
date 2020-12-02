@@ -210,6 +210,68 @@ It is important that this is not about plaming people. It is about finding ways 
 
 ![post-mortem-timeline](post-mortem.png)
 
+# First "Agile", then "Blabla".
+
+I like the [Agile Manifesto](https://agilemanifesto.org/). If you don't know it yet, then please follow the last hyperlink and read the short text.
+
+Let's have some fun. Look at these terms:
+
+* Agile Transformation
+* Agile Management
+* Agile Journey
+* Agile Chapions
+* Agile Principles
+* Agile Process
+* Agile Mindset
+* Agile World
+* Agile Terminology
+* Agile Teams
+* Agile Organization
+* Agile Framework
+* Agile Thinking
+
+You do prefer it strategic? OK, here you go:
+
+* Strategic Transformation
+* Strategic Management
+* Strategic Journey
+* Strategic Chapions
+* Strategic Principles
+* Strategic Process
+* Strategic Mindset
+* Strategic World
+* Strategic Terminology
+* Strategic Teams
+* Strategic Organization
+* Strategic Framework
+* Strategic Thinking
+
+Does this sound even more serious?
+
+Managers and Leaders tend use these terms because .... I don't know why.
+
+But what does the average non-manager, non-leader hear if the upper levels talk like this? I hope you are able to laugh about yourself,
+if you like to play the buzzword bingo game:
+
+* Childish Transformation
+* Childish Management
+* Childish Journey
+* Childish Chapions
+* Childish Principles
+* Childish Process
+* Childish Mindset
+* Childish World
+* Childish Terminology
+* Childish Teams
+* Childish Organization
+* Childish Framework
+* Childish Thinking
+
+Finally it is about one thing: Money. Can we deliver a product which customers will buy?
+
+My guideline: Avoid the meta-level. Be precise, implement small solutions today instead of talking about big solutions which are likely to fail.
+
+BTW, I like the [Getting Things Done Method](https://en.wikipedia.org/wiki/Getting_Things_Done) of David Allen.
 
 # More
 
