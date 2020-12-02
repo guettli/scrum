@@ -269,7 +269,7 @@ if you like to play the buzzword bingo game:
 
 Finally it is about one thing: Money. Can we deliver a product which customers will buy?
 
-My guideline: Avoid the meta-level. Be precise, implement small solutions today instead of talking about big solutions which are likely to fail.
+My guideline: Avoid the meta-level, otherwise communicating will likey get childish blublu-blabla. Be precise, implement small solutions today instead of talking about big solutions which are likely to fail.
 
 BTW, I like the [Getting Things Done Method](https://en.wikipedia.org/wiki/Getting_Things_Done) of David Allen, [WOOP](https://woopmylife.org/en/home) of Prof. Dr. Gabriele Oettingen and [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) of  Marshall Rosenberg. These methods help me more than the Agile Stuff.
 
