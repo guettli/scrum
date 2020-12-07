@@ -210,6 +210,10 @@ It is important that this is not about plaming people. It is about finding ways 
 
 ![post-mortem-timeline](post-mortem.png)
 
+# "Scrum Master"
+
+I worked as Scrum Master for one year. I learned a lot. Nevertheless if I could give the role a name, I would call it "Team Coach". This would underline the actual role: Be a servant leader for the team. And be a coach, not the one who is actually doing things.
+
 # First "Agile", then "Blabla".
 
 I like the [Agile Manifesto](https://agilemanifesto.org/). If you don't know it yet, then please follow the last hyperlink and read the short text.
