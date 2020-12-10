@@ -277,6 +277,14 @@ My guideline: Avoid the meta-level, otherwise communicating will likey get child
 
 BTW, I like the [Getting Things Done Method](https://en.wikipedia.org/wiki/Getting_Things_Done) of David Allen, [WOOP](https://woopmylife.org/en/home) of Prof. Dr. Gabriele Oettingen and [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) of  Marshall Rosenberg. These methods help me more than the Agile Stuff.
 
+Some years ago "strategic" was the buzzword. Today "agile" is the buzzword. Let's see what will come next.
+
+# "Agile" and "Scrum" don't get mentioned
+
+There is a 500 pages book about [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/). It contains condensed wisdom by great experts. The index of the book does not contain the words "Agile" or "Scrum". If you use the full-text search, you find both terms, but only only in non-relevant side-notes.
+
+
+
 # More
 
 [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
