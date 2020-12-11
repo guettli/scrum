@@ -283,7 +283,33 @@ Some years ago "strategic" was the buzzword. Today "agile" is the buzzword. Let'
 
 There is a 500 pages book about [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/). It contains condensed wisdom by great experts. The index of the book does not contain the words "Agile" or "Scrum". If you use the full-text search, you find both terms, but only only in non-relevant side-notes.
 
+# Sprint Retrospective
+ 
+[Scrum Guide: Sprint Retrospective](https://www.scrumguides.org/scrum-guide.html#sprint-retrospective)
+ 
+> The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done.
+ 
+A common question: Should PO to participate the retrospective?
+ 
+The "Scrum Team" means: Dev, Product-Owner and Scrum-Master. So the answer to this question is "Yes, the PO participates the Retro".
+ 
+The PO is pushing the team. That's his job. He decides what to do by ordering Product Backlog items. 
+The developers mostly care about the "how to do it".
+ 
+If there is a good relationship between the PO and the developers, then this is no problem.
 
+Let's celebrate a prejudices: Developers tend to be silent, they prefer to program and avoid detailed discussions.
+
+It is the job of the SM to ensure that during the Retro the PO does not push. The SM needs to encourage silent team members to speak up.
+
+But if the PO is pushing hard, and the developers are too shy, then there is a problem.
+Developers might predect upcoming technical issues better
+than the PO (since the PO prevers usualy prefers new features to QA). 
+
+
+If the Scrum-Master has the feeling that there is an [elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room) 
+then it is his/her
+duty to set up a meeting without the PO.
 
 # More
 
