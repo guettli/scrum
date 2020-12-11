@@ -55,39 +55,23 @@ Every 12 to 18 month the scrum team should get dissolved and new teams should ge
 This reorganization forces every team member to leave the autopilot. This is an interesting
 adventure (although many people don't like changes). It helps knowledge-sharing and avoids the bore-out syndrome.
 
-# "Sprint Goal" vs "constant flow"
+# Sprints vs Kanban
 
-The official Scrum Guide does not define "Sprint Goal", only the term [Sprint](https://www.scrumguides.org/scrum-guide.html#events-sprint).
+In my experience only 5% of Sprints have **one** well defined goal. Most Sprints have 3 to 5 goals.
 
-But "Sprint Goal" gets used several times.
+This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring and fire-fighting.
 
-Of course it depends. Maybe you have well defined Sprint Goals. But in my experience only 5% of Sprints have one well defined goal. This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring and fire-fighting.
+Example: We start a new sprint and have capacity for 40 Story Points. We fill the sprint backlog with 15 issues. Now have a look at these 15 issues. Many of them are not related to another. They are issues. Some small, some big. 
 
-Example: We start a new sprint and have capacity for 40 Story Points. We fill the sprint backlog with 15 issues. Now have a look at these 15 issues. Many of them are not related to another. They are issues. Some small, some big. There is no useful common denominator. Why create a Sprint Goal?
+It would be nice to have one common sprint goal. Since we are all social beings, it gives us
+a warm feeling inside. I think that is one major feature why a lot of people want to do scrum. Although I have never
+seen a sprint with **one** sprint goal. 
 
-I think it makes sense to have 2 week sprints. But I don't need to give them a fancy name.
+If there is no useful common denominator, why create a Sprint Goal?
 
-Just like version numbers like 20.04 make much more sense to me than [Focal Fossa (Ubuntu's fancy name for the current release)](https://releases.ubuntu.com/20.04/). I prefer the dry number which contains a date. In this case "April 2020".
+I think this kind of thinking is 100% fine. Maybe Kanban makes more sense?
 
-If course there are goals which have names. But they are created by the product team and they usualy have long term plans.
-
-Since the scrum team exists to do what the product team wants, it does not make sense that the scrum team invents a written "Sprint Goal" for each sprint. Quarterly goals by the product teams are enough.
-
-
-It would be nice to have a common sprint goal. Since we are all social beings, it gives us
-a warm feeling inside. I think that is one major feature why a lot of people want to do scrum.
-
-In the past people did hunting and collecting in groups.
-
-Then they got farmers. Still working in groups.
-
-Then came the industrial revolution and now one person works on one small puzzle piece. In many
-cases the single person doing his work can't even see the big picture.
-
-Now here is scrum: Let's go hunting again, like we played when we were kids! This feels great....
-
-That's why I wrote above text: I want to disillusion you. If you think about starting Scrum, be aware of the fact that
-there won't be a common sprint goal in most cases. 
+I think it makes sense to have 2 week sprints. Because the highlight after work is the [Sprint-Review](https://www.scrumguides.org/scrum-guide.html#sprint-review) where the Scrum Team presents the results of their work to key stakeholders. 
 
 # A sprint is a less than short-term
 
