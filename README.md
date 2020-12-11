@@ -73,31 +73,19 @@ I think this kind of thinking is 100% fine. Maybe Kanban makes more sense?
 
 I think it makes sense to have 2 week sprints. Because the highlight after work is the [Sprint-Review](https://www.scrumguides.org/scrum-guide.html#sprint-review) where the Scrum Team presents the results of their work to key stakeholders. 
 
-# A sprint is a less than short-term
-
-Maybe I am blind, but up to now I could not find information in the scrum guide about the long term planning.
-
-Working in two week sprints is fine.
-
-Nevertheless you need a bit more.
-
-You should be aware of this.
-
-For me, short-term means 3..6 months, mid-term means 6..12 months, long-term means 12.. months.
-
-If you look at Scrum this way, a Sprint is less than "short-term".
-
 # Velocity
 
 The Scrum Guide does not use the term "Velocity". But this glossary does contain it: [Glossary of scrum.org](https://www.scrum.org/Resources/Scrum-Glossary)
 
-There are rumours that the velocity should get better and better and better until the scrum team flies with the speed of light (joking)
+There are rumours that the velocity should get better and better and better until the scrum team flies with the speed of light (joking).
 
 If the leaders want the velocity to increase, they will get what they want. The puzzle is easy to solve. Developers will just need to use higher estimates. Higher estimates, higher velocity.
 
 I don't think that you can measure velocity. Every development task is different. 
 
-If leaders want high and increasing velocity, then developers won't do very important tasks like cleaning up code, writing tests, trying new tools, etc. If leaders want it like this, they will get it. Finally some developers will get borded and look for a different company to work for.
+If leaders want high and increasing velocity, then developers won't do very important tasks like cleaning up code, writing tests, trying new tools, etc. 
+
+If leaders want it like this, they will get it. Finally some developers will get annoyed by the too abstract velocity blabla and look for a different company to work for.
 
 # Review/Demo
 
