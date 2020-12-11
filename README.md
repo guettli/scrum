@@ -136,7 +136,7 @@ But a lot of other institutions do it the same way. See [Professional Developmen
 
 # The term "Sprint".
 
-I like long-distance running. A half marathon (21km) are a great distance. Depending on the mood and entuisiasm this means one and a half or two hours of constant workout. I like it.
+I like long-distance running. A half marathon (21km) is a great distance. Depending on the mood and entuisiasm this means one and a half or two hours of constant workout. I like it.
 
 I am not a sprinter. I am too slow on short distances.
 
@@ -148,11 +148,11 @@ I am not happy with the term "Sprint", but up to now I found no better alternati
 
 I guess the C-level wants more than two week planing. They think in quarters and years.
 
-Scrum only defines the sprint, but no higher level or long term planing.
+Scrum only defines the sprint, but no higher level or long term planing. Although the term "Product Goal" gets used.
 
 [Quarterly OKRs](https://en.wikipedia.org/wiki/OKR) can be used for planing beyond two/three week sprints.
 
-That's great. Now you have both: Waterfall/Gantt and Scrum ... oh what fun.
+That's great. This way we can make everybody happy. Those who love Scrum and those who love Waterfall/Gantt. Oh what fun.
 
 # Retro Topics
 
