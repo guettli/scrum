@@ -121,7 +121,7 @@ Maybe Scrum is more successful than Kanban in the last years (see [Google Trend 
 
 This gets apparent if you read about the [SEU (Scrum Education Units)](https://www.scrumalliance.org/get-certified/scrum-education-units).
 
-Why are so many people attending the scrum conferences? Because the people want to get Scrum Education Units. Why are there many Scrum Meetups? Because people want to get Scrum Education Units.... 
+Why are so many people attending the scrum conferences? Because the people want to get Scrum Education Units. Why are there many Scrum conferences? Because people want to get Scrum Education Units.... 
 
 It is like a [pyramid scheme](https://en.wikipedia.org/wiki/Pyramid_scheme). At the top is the Scrum Alliance which gets money from the [Registered Education Providers](https://www.scrumalliance.org/get-certified/trainers/become-a-rep). The Registered Education Providers get money by people like you and me.
 
