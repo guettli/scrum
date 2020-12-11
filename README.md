@@ -286,7 +286,7 @@ It is the job of the SM to ensure that during the Retro the PO does not push. Th
 
 But if the PO is pushing hard, and the developers are too shy, then there is a problem.
 Developers might predect upcoming technical issues better
-than the PO (since the PO prevers usualy prefers new features to QA). 
+than the PO (since the PO prevers usualy prefers new features to QA). It is important to listen to everybody.
 
 
 If the Scrum-Master has the feeling that there is an [elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room) 
