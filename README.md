@@ -50,10 +50,10 @@ My personal opinion: The team should not have more than 6 members.
 
 # Team lifetime
 
-Every 9 to 16 month the scrum team should get dissolved and new teams should get born. 
+Every 12 to 18 month the scrum team should get dissolved and new teams should get born. 
 
 This reorganization forces every team member to leave the autopilot. This is an interesting
-adventure (although many people don't like changes). It helps avoid the bore-out syndrome.
+adventure (although many people don't like changes). It helps knowledge-sharing and avoids the bore-out syndrome.
 
 # "Sprint Goal" vs "constant flow"
 
