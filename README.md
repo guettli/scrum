@@ -236,6 +236,8 @@ Does this sound even more serious?
 
 Managers and Leaders tend use these terms because .... I don't know why.
 
+In the year 2000 the term "Internet" was the current buzzword.
+
 But what does the average non-manager, non-leader hear if the upper levels talk like this? I hope you are able to laugh about yourself,
 if you like to play the buzzword bingo game:
 
