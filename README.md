@@ -40,6 +40,8 @@ I think estimating in hours would make more sense.
 This would sharpen your awareness concerning interruptions. You could ask yourself: Why did it took longer than estimated?
 Where there interrupts? What kind of interrupts?
 
+You could argue that a juniour developer needs longer than a senior developer. Nevertheless I prefer hours. 
+
 # Team size
 
 Most Agile and Scrum training courses refer to a 7 +/- 2 rule.
