@@ -154,13 +154,15 @@ Scrum only defines the sprint, but no higher level or long term planing. Althoug
 
 That's great. This way we can make everybody happy. Those who love Scrum and those who love Waterfall/Gantt. Oh what fun.
 
-# Retro Topics
+# Collective Intelligence
 
-* How can we in our team achieve [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) and avoid [groupthink](https://en.wikipedia.org/wiki/Groupthink)?
+How can we in our team achieve [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) and avoid [groupthink](https://en.wikipedia.org/wiki/Groupthink)?
 
-# Retro Tools
+The daily helps to foster collective intelligence (if the team is small and if it is ok to interrupt the speaker).
 
-* Google Forms. This way the participants don't see what the other participants write. They need to think on their own first. Later you can share your screen and everybody can see the answers of all participants.
+Google Forms. This way the participants don't see what the other participants write. They need to think on their own first. Later you can share your screen and everybody can see the answers of all participants.
+
+If you know a cool open source tool to foster collective intelligence, then please let me know!
 
 # Personal Feedback Retro
 
