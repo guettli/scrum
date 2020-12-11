@@ -32,7 +32,13 @@ If I have a task that is measured in story points, then I don't have this person
 
 Now you could argue, I should find a magic function which maps from Story Points to hours. Then I have the same challenge. But wait: Why should I do this dancing forward and dancing backward? 
 
-But maybe these fancy units have benefits. For examplel the "Jeff Bezos' 2 Pizza Rule". Why no use a boring range like "5 to 7 people"? Don't ask me. Somehow "2 Pizza Rule" is way better than a boring numbers. Maybe it is the same for "story points vs hours". Maybe selling ideas is more important than having great ideas.
+But maybe these fancy units have benefits. For examplel the "Jeff Bezos' 2 Pizza Rule". Why no use a boring range like "5 to 7 people"? Don't ask me. Somehow "2 Pizza Rule" is way better than a boring numbers. Maybe it is the same for "story points vs hours". 
+Maybe selling colorful stories is more important than boring math.
+
+I think estimating in hours would make more sense.
+
+This would sharpen your awareness concerning interruptions: You could ask yourself: Why did it took longer?
+Where there interrupts? What kind of interrupts?
 
 # Team size
 
