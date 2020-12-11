@@ -263,7 +263,7 @@ Some years ago "strategic" was the buzzword. Today "agile" is the buzzword. Let'
 
 # "Agile" and "Scrum" don't get mentioned
 
-There is a 500 pages book about [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/). It contains condensed wisdom by great experts. The index of the book does not contain the words "Agile" or "Scrum". If you use the full-text search, you find both terms, but only only in non-relevant side-notes.
+There is a 500 pages book about [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/). It contains condensed wisdom by great experts. The index of the book does not contain the words "Agile" or "Scrum". If you use the full-text search, you find both terms, but only in non-relevant side-notes.
 
 # Sprint Retrospective
  
