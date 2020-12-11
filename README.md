@@ -166,9 +166,9 @@ If you know a cool open source tool to foster collective intelligence, then plea
 
 # Personal Feedback Retro
 
-After a scrum team worked for several sprints, it is time for a personal feedback retro. I did it like this: I created a empty for every team member. Each board had a heading (the name of the team member) and three columns (keep on doing, stop doing, start doing).
+After a scrum team worked for several sprints, it is time for a personal feedback retro. I did it like this: I created a empty Jamboard for every team member. Each board had a heading (the name of the team member) and three columns (keep on doing, stop doing, start doing).
 
-In 15 minutes everybody could add sticky notes to the board of other team members. Before that the moderator (Scrum Master) should remind the people to use a kind and future-focused perspective. The focus should be on "What could be improved?", not "What was done wrong in the past".
+In 15 minutes everybody could add sticky notes to the board of an other team members. Before that the moderator (Scrum Master) should remind the people to use a kind and future-focused perspective. The focus should be on "What could be improved in the future?", not "What was done wrong in the past".
 
 After that every team member had time to read the note he received.
 
@@ -176,19 +176,17 @@ One day later we go through the board and everybody has the possiblity to speak 
 
 This was very fruitfull.
 
-
-
 # Pragmatic Post-Mortem
 
-If there was a bug which caused trouble to users, then it is wise to schedule a post-mortem. This helps to find the root-cause, get a common perspective and it should result in some action points to ensure the same bug does appear again.
+If there was a bug which caused trouble to users, then it is wise to schedule a post-mortem. This helps to find the root-cause, get a common perspective and it should result in some action points to ensure the same bug does not appear again.
 
-One of several ways to run such a meeting is to use a timeline three levels:
+One of several ways to run such a meeting is to use a timeline and three levels:
 
-* First level, yellow: The facts. All participants should agree here
-* Second level, blue: Should: What should have been done
-* Third level: green: Action-items. Who does what during the next days.
+* First (and lowest) level, yellow: The facts. All participants should agree here
+* Second level, blue: Should: What should have been done, but was not?
+* Third level: green: Action-items. Who does what during the next days?
 
-It is important that this is not about plaming people. It is about finding ways to improve the processes. The moderator (Scrum Master) should remind the participants if the mood gets non-professional.
+It is important that this is not about blaming people. It is about finding ways to improve the processes. The moderator (Scrum Master) should remind the participants if the mood gets non-professional.
 
 ![post-mortem-timeline](post-mortem.png)
 
@@ -216,7 +214,9 @@ Let's have some fun. Look at these terms:
 * Agile Framework
 * Agile Thinking
 
-You do prefer it strategic? OK, here you go:
+Sounds good?
+
+Or do you prefer it strategic? OK, here you go:
 
 * Strategic Transformation
 * Strategic Management
@@ -255,9 +255,9 @@ if you like to play the buzzword bingo game:
 
 Finally it is about one thing: Can we deliver a something which customers will like? How much does it cost us, how much will we receive?
 
-My guideline: Avoid the meta-level, otherwise communicating will likey get childish blublu-blabla. Be precise, implement small solutions today instead of talking about big solutions which are likely to fail.
+My guideline: Avoid the meta-level, otherwise communicating will likey get childish blabla-blublue. Be precise, implement small solutions today instead of talking about big solutions which are likely to fail.
 
-BTW, I like the [Getting Things Done Method](https://en.wikipedia.org/wiki/Getting_Things_Done) of David Allen, [WOOP](https://woopmylife.org/en/home) of Prof. Dr. Gabriele Oettingen and [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) of  Marshall Rosenberg. These methods help me more than the Agile Stuff.
+BTW, I like the [Getting Things Done Method](https://en.wikipedia.org/wiki/Getting_Things_Done) of David Allen, [WOOP](https://woopmylife.org/en/home) of Prof. Dr. Gabriele Oettingen and [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) of  Marshall Rosenberg. These methods help me more than too abstract meta level theory.
 
 Some years ago "strategic" was the buzzword. Today "agile" is the buzzword. Let's see what will come next. Maybe "sustainable", "resilient" or "cloud native".
 
