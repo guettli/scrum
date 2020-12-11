@@ -46,7 +46,7 @@ You could argue that a juniour developer needs longer than a senior developer. N
 
 Most Agile and Scrum training courses refer to a 7 +/- 2 rule.
 
-My personal opinion: The team should not have more than 6 members. Ideal size for me is 4.
+My personal opinion: The team should not have more than 6 members.
 
 # Team lifetime
 
