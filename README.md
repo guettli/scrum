@@ -295,6 +295,20 @@ If the Scrum-Master has the feeling that there is an [elephant in the room](http
 then it is his/her
 duty to set up a meeting without the PO.
 
+# Listening vs Listening
+
+I think I like communicating more than most developers. That's why I switched from Python/Django development to the role Scrum Master in Start-Up in Chemnitz. I like to listen, if someone talks to me. 
+
+After some months I realized: There are two types of listening: If someone speaks to me, then I enjoy it, and I can help by listening and asking some questions.
+
+But the Role of Scrum Master requires a different kind of listening skill. During the ceremonies, the team does not speak to me. They speak to the team. And that's where I struggle. If I am not involved, than I sometimes prefer to follow my thoughts instead of the current topic. My thoughts are still
+on a work related topic. Maybe the topic which was discussed two minutes ago. Maybe I am too detail-oriented. That's not an issue, if I am in the role of a software developer. Then I am focused if team talks about code which I am involved in.
+
+Listening while the team discusses something is sometimes hard for me. Somehow I work in a kind of binary mode: I am involved and motivated XOR I am not involved and I don't care. 
+Being a mediator/moderator is hard. You need to pay attention although your role is to have almost no opinion. 
+Your role is to foster the collective intelligence, not to be smart.
+
+
 # More
 
 [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
