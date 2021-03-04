@@ -2,9 +2,15 @@
 
 I was a Scrum Master for one year (2020). It was fun and I want to share some of my findings.
 
-My personal opinionated point of view about [Scrum](https://en.wikipedia.org/wiki/Scrum).
+My personal opinionated point of view about Scrum.
 
-Don't get me wrong: I like Scrum. Here are some things where I think different.
+What is "Scrum"?
+
+> Scrum is an agile framework for developing, delivering, and sustaining complex products,[1] with an initial emphasis on software development, although it has been used in other fields including research, sales, marketing and advanced technologies.[2] It is designed for teams of ten or fewer members, who break their work into goals that can be completed within time-boxed iterations, called sprints,
+
+Source: [Wikipedia: Scrum](https://en.wikipedia.org/wiki/Scrum).
+
+Don't get me wrong: I like Scrum. The follow text contains some parts where I have a different opinion.
 
 # Story points
 
