@@ -26,7 +26,7 @@ Don't get me wrong: I like Scrum. The follow text contains some parts where I ha
 >
 > B: ???
 
-Most developers work 8 hours per day. But since some Scrum Gurus said you should use Story Points, most teams do it.
+Most developers work 8 hours per day. Stakeholders want a solution within N weeks. Meetings are time-boxed to an hour or a half. But since some Scrum Gurus said you should use Story Points, most teams do it.
 
 Please pay attention to the previous sentence. I wrote "Scrum Gurus", not "Scrum Guide". The official Scrum Guide only talks about "estimates".
 
