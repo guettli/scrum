@@ -301,6 +301,22 @@ If the Scrum-Master has the feeling that there is an [elephant in the room](http
 then it is his/her
 duty to set up a meeting without the PO.
 
+# Since three years there was never "one sprint goal".
+
+> The Sprint Goal is the single objective for the Sprint. 
+
+Source: [Scrum Guide 2020](https://scrumguides.org/scrum-guide.html#sprint-backlog)
+
+Since three years we use Scrum, and in all these sprints there has never been a **single objective**. There have bin almost always three or more completely unrelated goals.
+
+Don't ask me why, but people seem to love this holy one single thing. 
+
+This reminds of Yuval Noah Harari explaining the change from Polytheism to Monotheism.
+
+“monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He’s evil. But nobody in history has had the stomach for such a belief.”
+
+― Yuval Noah Harari, Sapiens: A Brief History of Humankind
+
 # Listening vs Listening
 
 I think I like communicating more than most developers. That's why I switched from Python/Django development to the role Scrum Master in Start-Up in Chemnitz. I like to listen, if someone talks to me. 
