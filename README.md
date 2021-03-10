@@ -307,13 +307,17 @@ I think I like communicating more than most developers. That's why I switched fr
 
 After some months I realized: There are two types of listening: If someone speaks to me, then I enjoy it, and I can help by listening and asking some questions.
 
-But the Role of Scrum Master requires a different kind of listening skill. During the ceremonies, the team does not speak to me. They speak to the team. And that's where I struggle. If I am not involved, than I sometimes prefer to follow my thoughts instead of the current topic. My thoughts are still
+But the Role of Scrum Master requires a different kind of listening skill. During the ceremonies, the team does not speak to me. They speak to the team. And that's where I struggle. If I am not involved, than I sometimes prefer to follow my thoughts instead of the current topic. My thoughts are most likely still
 on a work related topic. Maybe the topic which was discussed two minutes ago. Maybe I am too detail-oriented. That's not an issue, if I am in the role of a software developer. Then I am focused if team talks about code which I am involved in.
 
-Listening while the team discusses something is sometimes hard for me. Somehow I work in a kind of binary mode: I am involved and motivated XOR I am not involved and I don't care. 
-Being a mediator/moderator is hard. You need to pay attention although your role is to have almost no opinion. 
+Listening while the team discusses something is sometimes hard for me, if I am not involved in the details. Somehow I work in a kind of binary mode: I am involved and motivated XOR I am not involved and I don't care. 
+
+Being a mediator/moderator is much harder as I initialy thought. You need to pay attention although your role is to have almost no opinion. 
 Your role is to foster the collective intelligence, not to be smart.
 
+# Blockers/Impediments created by Scrum
+
+If you are new developer in a team, then you are lost in the daily work. This means you can focus on your tasks, and if you are lucky you get the things done soon. And now you might get blocked by the Scrum process: There are no tickets which are "ready". There are plenty of tickets, but they are not estimated yet. The estimashion should be done by the whole team. What now? You have time and motivation, but the other team members are busy.....
 
 # More
 
