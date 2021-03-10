@@ -317,7 +317,7 @@ Your role is to foster the collective intelligence, not to be smart.
 
 # Blockers/Impediments created by Scrum
 
-If you are new developer in a team, then you are lost in the daily work. This means you can focus on your tasks, and if you are lucky you get the things done soon. And now you might get blocked by the Scrum process: There are no tickets which are "ready". There are plenty of tickets, but they are not estimated yet. The estimashion should be done by the whole team. What now? You have time and motivation, but the other team members are busy.....
+If you are new developer in a team, then you are not lost in the daily work. This means you can focus on your tasks, and if you are lucky you get the things done soon. And now you might get blocked by the Scrum process: There are no tickets which are "ready". There are plenty of tickets, but they are not estimated yet. The estimation should be done by the whole team. What now? You have time and motivation, but the other team members are busy.....
 
 # More
 
