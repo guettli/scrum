@@ -335,6 +335,11 @@ Your role is to foster the collective intelligence, not to be smart.
 
 If you are new developer in a team, then you are not lost in the daily work. This means you can focus on your tasks, and if you are lucky you get the things done soon. And now you might get blocked by the Scrum process: There are no tickets which are "ready". There are plenty of tickets, but they are not estimated yet. The estimation should be done by the whole team. What now? You have time and motivation, but the other team members are busy.....
 
+# Time wasted by Scrum: First we need to remove a ticket from the sprint.
+
+There is an urgent blocker. It is unplaned and the Product Onwer wants to add it to the current sprint. The Scrum Master wants a ticket to get removed from the sprint because something new comes in. Now the whole team is involved for several minutes to decide which one should removed from the sprint. This discussion feels unproductive for me. A domain expert would have solved the blocker during the time several decide which one to remove.
+
+
 # More
 
 [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
