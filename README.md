@@ -58,6 +58,16 @@ But it does not make sense for daily or other short informal meetings.
 
 You know a better or similiar tool? Great! Please tell me! [Open Source Jamboard clone?](https://softwarerecs.stackexchange.com/questions/78865/jamboard-clone)
 
+# Prepare a meeting with a short Survey
+
+A Jamboard is great for ad-hoc brainstorming. But it has the disadvantage that you see the text of other participants immideately. This means relaxed slow-thinking people might get influenced by the text of excited fast-thinking people.
+
+You want collective-intelligence, not group-think.
+
+A simple form to gather the ideas of each indiviual makes sense. For example [Google Forms](https://docs.google.com/forms)
+
+If you ask people to please fill in the form **before** a meeting this increases the quality since people get prepared for the meeting.
+
 # Team size
 
 Most Agile and Scrum training courses refer to a 7 +/- 2 rule.
