@@ -87,7 +87,7 @@ In my experience only 5% of Sprints have **one** well defined goal. Most Sprints
 
 This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring and fire-fighting.
 
-Example: We start a new sprint and have capacity for 40 Story Points. We fill the sprint backlog with 15 issues. Now have a look at these 15 issues. Many of them are not related to another. They are issues. Some small, some big. 
+Example: We start a new sprint and have capacity for 40 Story Points. We fill the sprint backlog with 10 issues. Now have a look at these 10 issues. Many of them are not related to another. They are issues. Some small, some big. 
 
 It would be nice to have one common sprint goal. Since we are all social beings, it gives us
 a warm feeling inside. I think that is one major feature why a lot of people want to do scrum. Although I have never
