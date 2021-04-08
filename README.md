@@ -58,16 +58,6 @@ But it does not make sense for daily or other short informal meetings.
 
 You know a better or similiar tool? Great! Please tell me! [Open Source Jamboard clone?](https://softwarerecs.stackexchange.com/questions/78865/jamboard-clone)
 
-# Prepare a meeting with a short Survey
-
-A Jamboard is great for ad-hoc brainstorming. But it has the disadvantage that you see the text of other participants immideately. This means relaxed slow-thinking people might get influenced by the text of excited fast-thinking people.
-
-You want collective-intelligence, not group-think.
-
-A simple form to gather the ideas of each indiviual makes sense. For example [Google Forms](https://docs.google.com/forms)
-
-If you ask people to please fill in the form **before** a meeting this increases the quality since people get prepared for the meeting.
-
 # Team size
 
 Most Agile and Scrum training courses refer to a 7 +/- 2 rule.
@@ -81,11 +71,28 @@ Every 12 to 18 month the scrum team should get dissolved and new teams should ge
 This reorganization forces every team member to leave the autopilot. This is an interesting
 adventure (although many people don't like changes). It helps knowledge-sharing and avoids the bore-out syndrome.
 
+# Since three years there was never "one sprint goal".
+
+> The Sprint Goal is the single objective for the Sprint. 
+
+Source: [Scrum Guide 2020](https://scrumguides.org/scrum-guide.html#sprint-backlog)
+
+Since three years I use Scrum at different companies, and in all these sprints there has never been a **single objective**. There have been almost always three or more completely unrelated goals.
+
+Don't ask me why, but people seem to love this holy one single thing. 
+
+This reminds of Yuval Noah Harari explaining the change from Polytheism to Monotheism.
+
+“monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He’s evil. But nobody in history has had the stomach for such a belief.”
+
+― Yuval Noah Harari, Sapiens: A Brief History of Humankind
+
+
 # Sprints vs Kanban
 
-In my experience only 5% of Sprints have **one** well defined goal. Most Sprints have 3 to 5 goals.
+Since Sprints in practice don't have a single goal, why not switch to a more suitable framework?
 
-This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring and fire-fighting.
+This raises the question: "Is a sprint goal needed?". I can happily live without it. It is like a constant flow of issues: New features, old bugs, refactoring and fire-fighting. Like playing [Tetris](https://en.wikipedia.org/wiki/Tetris): You managed to fill in one row, now the row disappears and you are again fighting get one row filled to make it disappear.
 
 Example: We start a new sprint and have capacity for 40 Story Points. We fill the sprint backlog with 10 issues. Now have a look at these 10 issues. Many of them are not related to another. They are issues. Some small, some big. 
 
@@ -97,7 +104,13 @@ If there is no useful common denominator, why create a Sprint Goal?
 
 I think this kind of thinking is 100% fine. Maybe Kanban makes more sense?
 
-I think it makes sense to have 2 week sprints. Because the highlight after work is the [Sprint-Review](https://www.scrumguides.org/scrum-guide.html#sprint-review) where the Scrum Team presents the results of their work to key stakeholders. 
+I think it makes sense to have sprints. I don't want a continuous endless flow. The highlight at the end of the sprint is the [Sprint-Review](https://www.scrumguides.org/scrum-guide.html#sprint-review) where the Scrum Team presents the results of their work to key stakeholders.
+
+# Thankfullness creates Happyness creates Motivation creates Productivity
+
+If stakeholders are wise they know that it makes sense to be thankful during the sprint-review, since this motivates the developers.
+
+If 98% of the work are done, and only 2% of the work is not perfect, and the stakeholders focus on these 2% as if this would as important as the solved 98% percent, then this will demotivate the people doing the actual work.
 
 # Velocity
 
@@ -186,9 +199,22 @@ How can we in our team achieve [collective intelligence](https://en.wikipedia.or
 
 The daily helps to foster collective intelligence (if the team is small and if it is ok to interrupt the speaker).
 
-Google Forms. This way the participants don't see what the other participants write. They need to think on their own first. Later you can share your screen and everybody can see the answers of all participants.
+You need a tool, so that, the participants don't see what the other participants write. They need to think on their own first.
+
+Later you can share your screen and everybody can see the answers of all participants.
 
 If you know a cool open source tool to foster collective intelligence, then please let me know!
+
+
+# Prepare a meeting with a short Survey
+
+A Jamboard is great for ad-hoc brainstorming. But it has the disadvantage that you see the text of other participants immideately. This means relaxed slow-thinking people might get influenced by the text of excited fast-thinking people.
+
+You want collective-intelligence, not group-think.
+
+A simple form to gather the ideas of each indiviual makes sense. For example [Google Forms](https://docs.google.com/forms)
+
+If you ask people to please fill in the form **before** a meeting this increases the quality since people get prepared for the meeting.
 
 # Personal Feedback Retro
 
@@ -265,7 +291,7 @@ Managers and Leaders tend use these terms because .... I don't know why.
 In the year 2000 the term "Internet" was the current buzzword.
 
 But what does the average non-manager, non-leader hear if the upper levels talk like this? I hope you are able to laugh about yourself,
-if you like to play the buzzword bingo game:
+if you like to play the buzzword bingo game. This is what workers hear:
 
 * Childish Transformation
 * Childish Management
@@ -313,29 +339,14 @@ Let's celebrate a prejudices: Developers tend to be silent, they prefer to progr
 It is the job of the SM to ensure that during the Retro the PO does not push. The SM needs to encourage silent team members to speak up.
 
 But if the PO is pushing hard, and the developers are too shy, then there is a problem.
-Developers might predect upcoming technical issues better
-than the PO (since the PO prevers usualy prefers new features to QA). It is important to listen to everybody.
+Developers might predict upcoming technical issues better
+than the PO (since the PO usualy prefers new features to clean code). It is important to listen to everybody.
 
 
 If the Scrum-Master has the feeling that there is an [elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room) 
 then it is his/her
 duty to set up a meeting without the PO.
 
-# Since three years there was never "one sprint goal".
-
-> The Sprint Goal is the single objective for the Sprint. 
-
-Source: [Scrum Guide 2020](https://scrumguides.org/scrum-guide.html#sprint-backlog)
-
-Since three years we use Scrum, and in all these sprints there has never been a **single objective**. There have bin almost always three or more completely unrelated goals.
-
-Don't ask me why, but people seem to love this holy one single thing. 
-
-This reminds of Yuval Noah Harari explaining the change from Polytheism to Monotheism.
-
-“monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He’s evil. But nobody in history has had the stomach for such a belief.”
-
-― Yuval Noah Harari, Sapiens: A Brief History of Humankind
 
 # Listening vs Listening
 
