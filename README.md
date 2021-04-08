@@ -52,7 +52,11 @@ You could argue that a juniour developer needs longer than a senior developer. N
 
 For brainstorming, gathering ideas, simple voting I like [Jamboard](https://jamboard.google.com/).
 
-You know a better or similiar tool? Great! Please tell me!
+It has the benefit (compared to "just talking"), that you can have a look at the feedback/opinions/text later.
+
+But it does not make sense for daily or other short informal meetings.
+
+You know a better or similiar tool? Great! Please tell me! [Open Source Jamboard clone?](https://softwarerecs.stackexchange.com/questions/78865/jamboard-clone)
 
 # Team size
 
