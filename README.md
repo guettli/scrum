@@ -48,6 +48,12 @@ Where there interrupts? What kind of interrupts?
 
 You could argue that a juniour developer needs longer than a senior developer. Nevertheless I prefer hours. 
 
+# Usefull Tools
+
+For brainstorming, gathering ideas, simple voting I like [Jamboard](https://jamboard.google.com/).
+
+You know a better or similiar tool? Great! Please tell me!
+
 # Team size
 
 Most Agile and Scrum training courses refer to a 7 +/- 2 rule.
