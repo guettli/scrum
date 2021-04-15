@@ -370,6 +370,29 @@ If you are new developer in a team, then you are not lost in the daily work. Thi
 
 There is an urgent blocker. It is unplaned and the Product Onwer wants to add it to the current sprint. The Scrum Master wants a ticket to get removed from the sprint because something new comes in. Now the whole team is involved for several minutes to decide which one should removed from the sprint. This discussion feels unproductive for me. A domain expert would have solved the blocker during the time several decide which one to remove.
 
+# The Definition of Done is just dust in the wind
+
+Most teams working with Scrum have a "Definition of Ready" which lists the general requirments for tickets before development starts. And there
+is a "Definition of Done"  which lists the general requirements which need to be fullfilled so that a ticket can be considered done.
+
+Both texts usualy contain the word "should" very often.
+
+The DoR and DoD have a problem: 
+
+* They are general. But every ticket is different.
+* "From idea to ticket to development to testing to releasing to communicating the change" is a long process. DoR and DoD are just two small steps in the process.
+* People ignore them, because following the process strictly would slow them down.
+
+If you don't trust the developers, than you should enforce them.
+
+If you trust your developers, then you might not need them. You don't need them if you development process is documented. And
+this is more than DoR and DoD.
+
+During the daily work I saw most tickets did not met the requirement list of DoR and DoD. And that's ok.
+
+I think it is important that the overall process is easy to understand and documented.
+
+
 
 # More
 
