@@ -370,6 +370,32 @@ If you are new developer in a team, then you are not lost in the daily work. Thi
 
 There is an urgent blocker. It is unplaned and the Product Onwer wants to add it to the current sprint. The Scrum Master wants a ticket to get removed from the sprint because something new comes in. Now the whole team is involved for several minutes to decide which one should removed from the sprint. This discussion feels unproductive for me. A domain expert would have solved the blocker during the time several decide which one to remove.
 
+# Dev waiting for Customer feedback: Unplannable
+
+Working in Sprints sound good, but response time from customers/stakeholders is unplannable. 
+
+1. Developer reads user-story. Product-Owner does not have the answer. A customer needs to be consulted.
+2. Waiting time number 1.
+3. Dev gets the answer.
+4. Dev works.
+5. First prototype is done. Ready to show customer. But customer has no time this week.
+6. Waiting time number 2.
+7. ...
+
+As soon as you depend on people who are outside of your Sprint-circle, then it is likely that the delays let you wait again and again.
+
+I think you can't fix this wainting time, since the customer has the right to more important stuff. 
+The customer is the one who pays, this means the customer is king. The PO/Dev can only kindly remind him about
+testing. Of course you can define response times in contracts, but I think this does not matter much. As soon as
+you get unfriendly the customer won't come again, and then you failed completely.
+
+This means Developers and Product-Owners don't have the power to force customers to reply soon.
+
+If the customer does not reply again and again, then it is time to focus on other customers.
+
+Scrum and Sprints can't help here.
+
+
 # The Definition of Done is just dust in the wind
 
 Most teams working with Scrum have a "Definition of Ready" which lists the general requirments for tickets before development starts. And there
