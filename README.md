@@ -393,7 +393,7 @@ This means Developers and Product-Owners don't have the power to force customers
 
 If the customer does not reply again and again, then it is time to focus on other customers.
 
-Scrum and Sprints can't help here.
+Scrum and Sprints give you a false feeling of control, if depend on things you can't control.
 
 
 # The Definition of Done is just dust in the wind
